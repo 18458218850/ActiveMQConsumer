@@ -1,0 +1,17 @@
+package com.zhuokai.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/MsgTest")
+public class MsgTestController {
+
+	
+	
+	public void receive(){
+		
+	}
+	
+	
+}
